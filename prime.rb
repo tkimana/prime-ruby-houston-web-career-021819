@@ -1,3 +1,4 @@
-def prime?(2,3,7)
+def prime?
   [2,3,5,7]
 end 
+def not 
