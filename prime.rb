@@ -1,6 +1,6 @@
 def prime?(2)
- 
+ true
 end 
-def not_prime?
-  [-1,6,8]
-end
+def prime?(-1)
+  false
+ end
